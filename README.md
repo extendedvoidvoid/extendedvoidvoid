@@ -1,48 +1,22 @@
-# César Cabrera
+# César+ — by AGENCE AI
 
-**Senior video editor · filmmaker · creative technologist**  
-Paris / Rouen, France
+**César+ is software.** It is designed and developed by AGENCE AI (SARL, Rouen, France, founded 2024), a software company. César+ is the product brand.
 
-I build AI-assisted systems for film, television, cultural research, sound, and publishing.
+César+ is a proprietary AI engine that turns a brand's own images, logo and a short text brief into a 15 to 60-second video critique, ready to publish, for fashion, cinema and music.
 
-My background spans more than ten years in audiovisual and cultural media. My work combines montage, music, film history, journalism, visual research, and production technology.
+### The engine
+Proprietary, written in Python with open-source models, designed and coded in-house. Eight stages: ingestion and research, structured parsing, script generation, media sourcing with asset traceability, vision-text alignment, voice-over synthesis and timing, 9:16 render with word-synced captions, and orchestration with editorial validation.
 
-## Current focus
+### Modules in active development
+- **César+ engine**: the production pipeline for fashion, cinema and music
+- **Video Essay CLI**: command-line software for cinema video essays
+- **Cover Art CLI**: command-line software for album-cover essays
+- **album-video-creator**: multilingual video-essay generator
+- **Roto Station**: desktop app (Tauri) for SAM 2 video segmentation
 
-- AI-native video production and editorial workflows
-- Cinematic research and short-form visual formats
-- Sound-design and editing tools
-- Multilingual cultural projects
-- Local-first knowledge and publishing systems
+The source code is private.
 
-## Selected work
-
-### [La Maison Noire](https://github.com/extendedvoidvoid/portfolio-case-la-maison-noire)
-
-A spec fragrance-film case study created for a Chanel Paris candidature, combining luxury visual language, montage, sound, and editorial direction.
-
-### [soundcut-web](https://github.com/extendedvoidvoid/soundcut-web)
-
-A Next.js and TypeScript interface for an audiovisual sound-analysis and editing workflow.
-
-### [Atelier Synesthésie](https://github.com/extendedvoidvoid/atelier-synesthesie)
-
-An artistic and visual experimentation space.
-
-### Déjà Vu
-
-A short-form split-screen format that places a newly released film beside the history of cinema and mise-en-scène contained within it—using montage, music, and journalistic research to make the relationship visible in approximately ninety seconds.
-
-## What I am building now
-
-I use AI to increase the operational capacity of an experienced creator—not to replace taste, research, judgment, or authorship.
-
-The objective is to produce sophisticated visual and intellectual work with the consistency and range of a small creative studio.
-
-## GitHub note
-
-Original projects, private production systems, and external research forks serve different purposes here. Forks remain visibly attributed to their upstream authors; this profile highlights my original work and the systems I am actively developing.
-
-## Opportunities
-
-Open to senior video editing, creative technology, AI-video, original-format, and cultural-media opportunities in Paris and internationally.
+### Links
+- Product: https://cesarplus.com/software
+- LinkedIn: https://www.linkedin.com/in/cesarcabrera1
+- Contact: pluscesar@cesarplus.com
