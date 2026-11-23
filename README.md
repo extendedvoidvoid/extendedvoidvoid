@@ -1,22 +1,38 @@
-# César+ — by AGENCE AI
+# César Cabrera — César+ (AGENCE AI)
 
-**César+ is software.** It is designed and developed by AGENCE AI (SARL, Rouen, France, founded 2024), a software company. César+ is the product brand.
+**AI Creative Director, Executive Producer & Creative Technologist** · Rouen / Paris, France  
+Founder of **AGENCE AI** (SARL, est. 2024) — building **César+**, a local-first AI media engine and open-science cultural source-verification pipeline for cinema, fashion, and music.
 
-César+ is a proprietary AI engine that turns a brand's own images, logo and a short text brief into a 15 to 60-second video critique, ready to publish, for fashion, cinema and music.
+---
 
-### The engine
-Proprietary, written in Python with open-source models, designed and coded in-house. Eight stages: ingestion and research, structured parsing, script generation, media sourcing with asset traceability, vision-text alignment, voice-over synthesis and timing, 9:16 render with word-synced captions, and orchestration with editorial validation.
+### 2026 Compute & Startup Programs
+- **AI Factory France / EuroHPC / CINES Adastra:** `50,000` V100-eq GPU hours (`25,000` MI250X hours, indicative valuation `€21,600`) for open-source inference in cultural journalism.
+- **NVIDIA Inception Program:** Active member (`$1,000` Brev + partner ecosystem).
+- **AWS Activate Portfolio:** `$10,100` cloud & Bedrock credits.
+- **Microsoft for Startups Founders Hub:** `$5,000` Azure AI Foundry credits.
 
-### Modules in active development
-- **César+ engine**: the production pipeline for fashion, cinema and music
-- **Video Essay CLI**: command-line software for cinema video essays
-- **Cover Art CLI**: command-line software for album-cover essays
-- **album-video-creator**: multilingual video-essay generator
-- **Roto Station**: desktop app (Tauri) for SAM 2 video segmentation
+### Broadcast & Cultural Track Record
+- **Canal+ Group (2017–2024):** Senior Creative Copywriter & Executive Producer (*Déjà Vu* — 6 seasons, 100+ episodes, millions of organic views; *Séries Entre Potes*; *La Scène*; Cannes, Venice Mostra, Berlinale, Deauville).
+- **Académie des César (2019):** Director of the official Honorary César tribute film for Robert Redford.
+- **Netflix / Konbini / Adidas / Palais de Tokyo / Grand Palais:** Branded cultural campaigns & live visual direction (2,000–6,000+ attendees).
 
-The source code is private.
+### Engineering & AI Stack
+- **Local-First Apple Silicon Pipelines:** Python, Shell CLIs, FFmpeg (`hevc_videotoolbox` / `h264_videotoolbox`), transient-driven beat sync, spatial safe-zone typography, HTML/CSS-to-PDF editorial systems.
+- **Multi-Agent LLM & Vision Orchestration:** Google Vertex AI (Gemini), Azure AI Foundry, AWS Bedrock, open-weight local models (Gemma, Qwen, Phi, Nemotron via LM Studio), Model Context Protocol (MCP), SAM 2 video segmentation, synthetic voice.
+
+### Systems in Active Development
+- **César+ Engine:** 8-stage sovereign production pipeline turning archives, images, and briefs into broadcast-grade 9:16 cultural video critiques.
+- **Open-Science Verification Core:** Public methodology transposing journalistic pop-culture fact-checking (*Déjà Vu* framework) into verifiable AI retrieval.
+- **Video Essay CLI & Cover Art CLI:** Deterministic command-line tools for cinema and album-cover essays.
+- **Roto Station:** Tauri desktop application for SAM 2 video segmentation.
+
+*Core commercial engine is private; open-science cultural verification methodology and selected creative-tech tools are published openly.*
+
+---
 
 ### Links
-- Product: https://cesarplus.com/software
-- LinkedIn: https://www.linkedin.com/in/cesarcabrera1
-- Contact: pluscesar@cesarplus.com
+- **Live Web CV (EN / FR):** https://cesarplus.com/cv/en · https://cesarplus.com/cv
+- **1-Page ATS CV (PDF):** https://extendedvoidvoid.github.io/cesar-plus/cv-ia/Cesar_Cabrera_CV_ATS.pdf
+- **Product & Studio:** https://cesarplus.com · https://cesarplus.com/software
+- **LinkedIn:** https://www.linkedin.com/in/cesarcabrera1
+- **Contact:** pluscesar@cesarplus.com
